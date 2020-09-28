@@ -22,7 +22,7 @@ I'm a software engineer based in Los Angeles, CA, and an Electrical Engineering 
 
 I work with Prof. Jyotirmoy Deshmukh at [USC CPS-VIDA](https://cps-vida.github.io/) as a Graduate Researcher and with Frenzy Labs, Inc as a Computer Vision Intern. I like to create things that involve a camera, LiDAR, and a car. The fusion makes it undeniably beautiful, especially the world it creates around it. The future of this fusion is near, and I'm excited to a part of it. 
 
-I'm seeking full-time opportunities starting in January 2021 with roles in Computer Vision, Perception, Robotics, Autonomous Driving.
+**I'm seeking full-time opportunities starting in January 2021 with roles in Computer Vision, Perception, Robotics, Autonomous Driving.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshgajjar" alt="yogeshgajjar" /> </p>
 
