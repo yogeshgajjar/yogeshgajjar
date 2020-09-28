@@ -18,27 +18,16 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Yogesh 👋</h1>
 <!-- <h3 align="center">I'm an ambitious and self-motivated graduate with a strong inclination towards Computer Vision/Perception in Autonomous Driving</h3> -->
-Hello, I'm a software engineer based in Los Angeles, CA, and an Electrical Engineering Graduate student at the University of Southern California. I'm an ambitious and self-motivated graduate with a strong inclination towards Computer Vision/Perception in Autonomous Driving. I'm an avid learner with a practical mindset. My team and I are Ford sponsor award winners at CalHacks 6.0 Hackathon organized at UC Berkley for developing a platform called IDEAS (Intelligent Driver Enhanced Assistance System) in 36 hours. 
+Hello, I'm a software engineer based in Los Angeles, CA, and an Electrical Engineering Graduate student at the University of Southern California. I'm an ambitious and self-motivated graduate with a strong inclination towards Computer Vision/Perception in Autonomous Driving.  
 
-I work with Prof. Jyotirmoy Deshmukh at USC CPS-VIDA as a Graduate Researcher and with Frenzy Labs, Inc as a Computer Vision Intern. Yes, we do develop some really cool stuff! I like to create things that involve a camera, LiDAR, and a car. The fusion makes it undeniably beautiful, especially the world it creates around it. The future of this fusion is near, and I'm excited to a part of it. 
+I work with Prof. Jyotirmoy Deshmukh at USC CPS-VIDA as a Graduate Researcher and with Frenzy Labs, Inc as a Computer Vision Intern. I like to create things that involve a camera, LiDAR, and a car. The fusion makes it undeniably beautiful, especially the world it creates around it. The future of this fusion is near, and I'm excited to a part of it. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshgajjar" alt="yogeshgajjar" /> </p>
 
 - 🔭 I’m currently working on [Developing a F1/10th autonomous vehicle]()
-
-- 🌱 I’m currently learning **managing work 👨‍💻 and social life together 🎉**
-
-<!-- - 👯 I’m looking to collaborate on [](egeg) -->
-
-<!-- - 🤝 I’m looking for help with [werg](egerg) -->
-
-- 👨‍💻 All of my projects are available at [https://yogeshgajjar123.github.io/](https://yogeshgajjar123.github.io/)
-
-<!-- - 📝 I regulary write articles on [vfvefv](vfvefv) -->
-
-- 💬 Ask me about **Autonomous Driving, Perception, Machine Learning & Robotics**
-
-- 📫 How to reach me **yogeshgajjar75@gmail.com**
+- 🌱 I’m currently learning how to **managing work 👨‍💻 and social life together 🎉**
+- 👨‍💻 Visit my [porfolio](https://yogeshgajjar123.github.io/) website for complete background and contact.
+- 💬 Ask me about : **Autonomous Driving, Perception, Machine Learning & Robotics**
 
 - ⚡ Fun fact : **I'm a national level tennis player 🎾 and I play drums! 🥁**
 
@@ -49,7 +38,7 @@ I work with Prof. Jyotirmoy Deshmukh at USC CPS-VIDA as a Graduate Researcher an
 <a href="https://instagram.com/https://www.instagram.com/yogsh_16/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/yogsh_16/" height="30" width="40" /></a>
 <a href="https://medium.com/@yogeshgajjar75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yogeshgajjar75" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uce4toxurbxrf889vvgxlc2a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uce4toxurbxrf889vvgxlc2a" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yogesh sanat gajjar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yogesh sanat gajjar" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/yogesh sanat gajjar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yogesh sanat gajjar" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -58,3 +47,9 @@ I work with Prof. Jyotirmoy Deshmukh at USC CPS-VIDA as a Graduate Researcher an
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshgajjar&layout=compact" alt="yogeshgajjar" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshgajjar&show_icons=true" alt="yogeshgajjar" /></p> -->
+
+
+<!-- - 👯 I’m looking to collaborate on [](egeg) -->
+
+<!-- - 🤝 I’m looking for help with [werg](egerg) -->
+<!-- - 📝 I regulary write articles on [vfvefv](vfvefv) -->
