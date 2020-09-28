@@ -26,7 +26,7 @@ I work with Prof. Jyotirmoy Deshmukh at [USC CPS-VIDA](https://cps-vida.github.i
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshgajjar" alt="yogeshgajjar" /> </p>
 
-- 🔭 I’m currently working on [Developing a F1/10th autonomous vehicle]()
+- 🔭 I’m currently developing a [F1/10th autonomous vehicle](https://www.linkedin.com/posts/yogesh-gajjar_creating-a-map-using-google-cartographer-activity-6714206670937042944-i4p-)
 - 🌱 I’m currently learning how to **managing work 👨‍💻 and social life together 🎉**
 - 👨‍💻 Visit my [porfolio](https://yogeshgajjar123.github.io/) website for complete background and contact.
 - 💬 Ask me about : **Autonomous Driving, Perception, Machine Learning & Robotics**
